@@ -2,4 +2,7 @@
 <resources>
 
     <style name="Theme.Todo" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.To_Do" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Настройка цветов и шрифтов -->
+    </style>
 </resources>
